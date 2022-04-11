@@ -16,7 +16,7 @@ CONTROLS:
 * R - restart
 
 TILES INFO:
-* player -> player
+* red -> player
 * blue -> box
 * green -> win location
 * grey -> wall
